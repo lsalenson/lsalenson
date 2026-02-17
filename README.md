@@ -1,5 +1,3 @@
-# Léo Salenson
-
 ## Tech
 
 <p align="center">
